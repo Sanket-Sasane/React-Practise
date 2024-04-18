@@ -1,5 +1,3 @@
-React Practise
-
 # React Fundamentals
 
 #### React Course
